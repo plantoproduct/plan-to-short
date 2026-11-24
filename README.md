@@ -7,7 +7,7 @@ Aplikasi desktop Windows untuk memotong video panjang menjadi klip pendek vertik
 
 ## Unduh & Instalasi
 
-1. Buka halaman **[Releases](https://github.com/plantoproduct/plan-to-short/releases)** dan unduh file **`PlanToShort_1.0.0_x64-setup.exe`** (~3,3 MB).
+1. Buka halaman **[Releases](https://github.com/plantoproduct/plan-to-short/releases)** dan unduh file **`PlanToShort_1.1.0_x64-setup.exe`**.
 2. Jalankan file installer dan pilih folder instalasi sesuai keinginan Anda.
 3. Buka aplikasi **Plan to Short**, lalu masukkan **Lisensi Key** Anda untuk aktivasi.
 4. Masuk ke menu **Pengaturan ➔ Alat Media**, pilih folder penyimpanan alat media (misalnya di Drive `D:\`), lalu pasang komponen yang dibutuhkan (`FFmpeg`, `yt-dlp`, dan model teks).
