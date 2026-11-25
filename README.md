@@ -1,5 +1,12 @@
 # Klipza — AI Video Clipper & Studio Editor
-**by Plan to Product**
+**sebelumnya dikenal sebagai Plan to Short · by Plan to Product**
+
+> [!NOTE]
+> **Pengumuman Rebranding (`Plan to Short` ➔ `Klipza`):**
+> Mulai versi **`v1.2.0`**, **Plan to Short** resmi berganti nama dan identitas visual menjadi **Klipza** (tetap dikembangkan oleh tim yang sama, **Plan to Product**).
+> - **Lisensi Key lama (`P2P1-...`) tetap 100% berlaku** — tidak perlu membeli ulang atau mengganti lisensi.
+> - **Proyek & folder alat media Anda tetap aman** dan langsung terbaca setelah update.
+> - Nama repositori ini (`plan-to-short`) sengaja dipertahankan agar tautan unduhan lama dan fitur **Auto-Updater** dari versi `v1.0.0` / `v1.1.0` tetap berjalan lancar tanpa kendala.
 
 Aplikasi desktop Windows untuk memotong video panjang menjadi klip pendek vertikal & lanskap (`9:16`, `1:1`, `4:5`, `16:9`) siap upload ke TikTok, Reels, dan YouTube Shorts secara cepat dan offline.
 
